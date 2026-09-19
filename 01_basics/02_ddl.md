@@ -333,3 +333,10 @@ DDL
  |
  +-- DROP       → Remove table/object completely
 ```
+## DDL Interview Revision
+
+CREATE → Creates a table
+ALTER → Changes table structure
+TRUNCATE → Removes all rows
+DROP → Removes table completely
+
